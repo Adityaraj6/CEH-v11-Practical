@@ -1,0 +1,36 @@
+****ALL the Notes and refrences will be getting here**** 
+--->>> https://github.com/ziyishen97/CEH-v11-Practical/blob/main/Practical%20Exam%20Notes.md  (GO FOR THIS )
+https://bughacking.com/dvwa-ultimate-guide-first-steps-and-walkthrough/
+
+https://ilabs.eccouncil.org/ethical-hacking-exercises/ 
+
+--->>> https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master  
+https://github.com/undergroundwires/CEH-in-bullet-points
+https://github.com/Samsar4/Ethical-Hacking-Labs 
+https://anontuttuvenus.medium.com/ceh-practical-exam-review-185ea4cef82a 
+https://github.com/imrk51/CEH-v11-Study-Guide
+ 
+
+****CRACKING THE HASHES**** 
+---->>> https://hashcat.net/wiki/doku.php?id=example_hashes  [for hashcat]
+---->>> https://crackstation.net/ 
+---->>> https://hashes.com/en/decrypt/hash 
+https://skynettools.com/free-online-hash-cracking-websites/ 
+http://rainbowtables.it64.com/ 
+https://md5decrypt.net/en/ 
+https://hashkiller.io/listmanager 
+https://www.tunnelsup.com/hash-analyzer/ 
+
+------DVWA
+ASP.NET applications often using Microsoft SQL Server,PHP applications is likely to use MySQL and Java probably Oracle or MySQL.
+Additionally we can assume the database type from the web server and operating system of the target.
+For example if the web server is running Apache and PHP and it is a Linux host then the database has more possibilities to be MySQL.
+
+https://bughacking.com/dvwa-ultimate-guide-first-steps-and-walkthrough/#SQL_Injection
+https://www.golinuxcloud.com/dvwa-sql-injection/ 
+https://dtwh.medium.com/damn-vulnerable-web-application-dvwa-sql-injection-walkthrough-9c486a2178be
+https://wargame.braincoke.fr/labs/dvwa/dvwa-sqli/ 
+https://cybersecurityhoy.files.wordpress.com/2020/08/lab16-dvwa-manual-sql-injection-and-password-cracking.pdf 
+https://nooblinux.com/sql-injection-exploitation-explanation-examples-using-dvwa/ 
+
+
